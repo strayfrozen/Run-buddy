@@ -12,3 +12,5 @@ https://strayfrozen.github.io/Run-buddy/
 
 ## Contribution
 Made with ❤️ love by Chris Langford
+
+### ©️2019 Run Buddy, Inc
